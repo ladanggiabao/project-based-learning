@@ -20,6 +20,10 @@ Your fork of *project-based-learning* is a general tutorial list. I turned it in
 | [[03-prompt-library-fae]] | 7 copy-paste prompt templates + a daily drill | Goal #1: prompt engineering |
 | [[04-sla-kpi-starter]] | ITIL-lite priority matrix, SLA targets, KPI formulas, monthly report skeleton | Career gaps: ITIL, SLA/KPI |
 | [[05-iot-security-checklist]] | Site hardening checklist for readers, handhelds and MQTT | IoT cybersecurity track |
+| [[06-field-survey-template]] | Site survey form to fill on your phone; feeds prompt #3 to produce the deployment report | Field surveys, deployments |
+| [[07-uhf-rfid-troubleshooting-tree]] | Vendor-neutral decision tree (unreachable / no reads / missed / stray / "disappearing" tags / intermittent) + escalation pack | Daily FAE support, training material |
+| [[08-hikvision-dock-door-spec-scaffold]] | Question-led scaffold for the dock-door alarm project: integration patterns, facts H1–H8, bench test plan | Hikvision project (spec stage) |
+| [[09-chinese-work-vocab-shenzhen]] | 34 RFID/support/buying terms + phrases with pinyin and Hán-Việt | Goal #3: Chinese, Shenzhen trip |
 
 ## What I found in the repo (verified from repo files)
 - The bot's link sweep (`.github/link-rot-state.json`, last update 2026-07-20) tracks **456 URLs**: 374 OK, 69 blocked to bots (usually fine in a browser), **11 hard-dead**, 2 suspect.
